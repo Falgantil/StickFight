@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StickFight", "StickFight.csproj", "{F4B2DF83-4011-4869-A175-406CF8E734DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B2DF83-4011-4869-A175-406CF8E734DD}.Debug|x86.ActiveCfg = Debug|x86
+		{F4B2DF83-4011-4869-A175-406CF8E734DD}.Debug|x86.Build.0 = Debug|x86
+		{F4B2DF83-4011-4869-A175-406CF8E734DD}.Release|x86.ActiveCfg = Release|x86
+		{F4B2DF83-4011-4869-A175-406CF8E734DD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
