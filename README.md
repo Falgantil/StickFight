@@ -7,7 +7,7 @@ StickFight is a Windows Console based game.
 
 StickFight matches the player against the computer, or another player on the same keyboard.
 
-Yep, two players on the same system. Pretty retro. 
+Yep, two players on the same system. Fairly retro. 
 
 ------
 
@@ -15,11 +15,11 @@ Why?
 ====
 **I guess this is the most relevant question, isn't it?**
 
-This is a result of being WAY ahead in school, and asking a random friends for an idea on some random programming project.
+This is a result of being ahead in school, and asking a random friends for an idea on some random programming project.
 
-A couple of years back, I started this as a result of being way ahead in class, and a playable beta version was ready after a couple of days. I've slighting improved on the code over the years, whenever I've felt like it.
+A couple of years back, I started this as a result of being ahead in class, and a playable beta version was ready after a couple of days. I've slighting improved on the code over the years, whenever I've felt like it.
 
-*Note that this is years back, before I became as "good" as I am now.*
+*Note that this is years back. I'd like to think I've improved since then.*
 
 ----
 
